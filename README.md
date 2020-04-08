@@ -32,6 +32,6 @@ Use the sensor data to calculate when a vehicle has exceeded the stipulated limi
 * UnitTests with gtest
 
 ## Some tips and links that can help you:
- You can use this service to create an external broker - https://www.cloudmqtt.com/
- To learn more about protobuf: https://developers.google.com/protocol-buffers/docs/cpptutorial
- To learn more about gtest: https://github.com/google/googletest
+- You can use this service to create an external broker - https://www.cloudmqtt.com/
+- To learn more about protobuf: https://developers.google.com/protocol-buffers/docs/cpptutorial
+- To learn more about gtest: https://github.com/google/googletest
